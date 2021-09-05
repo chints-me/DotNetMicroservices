@@ -1,7 +1,7 @@
 # DotNetMicroservices
 
 In this project I did an introduction on building microservices using .NET 5. 
-As the name suggests I built everything completely from start to finish. However, at a high-level I covered:
+I built everything completely from start to finish. However, at a high-level I covered:
 
 • Building two .NET Microservices using the REST API pattern
 
